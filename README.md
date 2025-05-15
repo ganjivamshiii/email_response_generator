@@ -79,8 +79,8 @@ gemini.api.key=YOUR_API_KEY
 
 ## 📸 Screenshots
 
->![alt text](<Screenshot 2025-05-15 125031.png>)
->![alt text](image.png)
+>![AI Reply](Screenshot%202025-05-15%20125031.png)
+>![AI Reply](image.png)
 ---
 
 ## 🧪 Test the API Manually (Optional)
