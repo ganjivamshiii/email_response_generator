@@ -10,7 +10,8 @@ A Chrome Extension that helps you generate professional email replies using the 
 ---
 ## 🎥 Demo
 
-![Demo](clipchamp-demo.gif)
+![Demo](./assets/clipchamp-demo.gif)
+
 
 ## 🚀 Features
 
