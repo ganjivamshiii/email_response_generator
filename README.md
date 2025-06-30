@@ -8,6 +8,9 @@
 A Chrome Extension that helps you generate professional email replies using the Gemini Open API. Built with a Java Spring Boot backend and integrated seamlessly with Gmail.
 
 ---
+## 🎥 Demo
+
+![Demo](./assets/clipchamp-demo.gif)
 
 ## 🚀 Features
 
@@ -29,11 +32,11 @@ A Chrome Extension that helps you generate professional email replies using the 
 ## 📂 Project Structure
 
 ```plaintext
-├── backend/
+├── Emailgenerator/
 │   ├── EmailRequest.java
 │   ├── EmailGenerateService.java
 │   └── Emailgeneratorcontroller.java
-├── extension/
+├── emial_writerext/
 │   ├── content.js
 │   ├── manifest.json
 │   └── icons/ (optional icons)
